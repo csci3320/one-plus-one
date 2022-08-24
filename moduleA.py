@@ -1,3 +1,3 @@
 class AClass:
   def plusOne(self, number):
-    return number + 1
+    return number + 0
